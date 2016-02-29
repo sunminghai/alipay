@@ -21,8 +21,7 @@
     // 是东方闪电
     //水电费
     //孙明海大神开始代码了
-    //的得得
-    
+    // 大事发生的
 }
 
 - (void)didReceiveMemoryWarning {
