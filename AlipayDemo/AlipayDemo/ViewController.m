@@ -20,7 +20,7 @@
     
     // 是东方闪电
     //孙明海大神开始代码了
-    
+    // 大事发生的
 }
 
 - (void)didReceiveMemoryWarning {
