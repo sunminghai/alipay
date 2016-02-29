@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    //孙明海大神开始代码了
+    
 }
 
 - (void)didReceiveMemoryWarning {
