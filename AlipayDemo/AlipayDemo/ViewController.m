@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     // 是东方闪电
+    //水电费
     //孙明海大神开始代码了
     // 大事发生的
 }
